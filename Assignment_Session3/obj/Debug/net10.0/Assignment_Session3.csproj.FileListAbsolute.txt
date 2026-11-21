@@ -1,0 +1,14 @@
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/bin/Debug/net10.0/Assignment_Session3
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/bin/Debug/net10.0/Assignment_Session3.deps.json
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/bin/Debug/net10.0/Assignment_Session3.runtimeconfig.json
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/bin/Debug/net10.0/Assignment_Session3.dll
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/bin/Debug/net10.0/Assignment_Session3.pdb
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.AssemblyInfoInputs.cache
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.AssemblyInfo.cs
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.csproj.CoreCompileInputs.cache
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.dll
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/refint/Assignment_Session3.dll
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.pdb
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/Assignment_Session3.genruntimeconfig.cache
+/Users/mohamedalaa/Desktop/DotNet/C# Basics/Assignments/Session 03/Assignment_Session3/obj/Debug/net10.0/ref/Assignment_Session3.dll
